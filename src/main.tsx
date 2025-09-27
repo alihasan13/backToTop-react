@@ -9,7 +9,6 @@ import './styles.css'
 import reportWebVitals from './reportWebVitals.ts'
 
 
-import BackToTop from './components/backToTop'
 
 
 // Create a new router instance

@@ -7,7 +7,7 @@ export const Route = createRootRoute({
   component: () => (
     <>
       <Outlet />
-      
+      <BackToTop />
       <TanstackDevtools
         config={{
           position: 'bottom-left',
